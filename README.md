@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayen Ben Abdallah
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning Ai , Machine lEarning and Studying at Ensi
+- 🌱 I’m currently learning Ai , Machine learning and Studying at Ensi
 - 📫 How to reach me :
         Linkedin ---> https://www.linkedin.com/in/rayen-ben-abdallah-44765a29b/
         Facebook ---> https://www.facebook.com/rayene.benabdallah.3/
