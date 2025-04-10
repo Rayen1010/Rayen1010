@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Rayen Ben Abdallah
-- 👀 I’m interested in Ai
-- 🌱 I’m currently learning Ai , Machine learning and Studying at Ensi
-- 📫 How to reach me :
+ 📫 How to reach me :
         Linkedin ---> https://www.linkedin.com/in/rayen-ben-abdallah-44765a29b/
         Facebook ---> https://www.facebook.com/rayene.benabdallah.3/
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rayen Ben Abdallah and I'm a Computter Science Student at Ensi, Interested in Ai and Mlops</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
